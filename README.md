@@ -1,11 +1,5 @@
 # Hi, I'm Fabio Ferreira! 👋
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/fabio-ferreira-188392280/">
-    <img src="https://capsule-render.vercel.app/type=waving&color=auto&height=200&section=header&text=Fabio%20Ferreira&fontSize=70" alt="Banner Fabio Ferreira" />
-  </a>
-</p>
-
 Robotics Engineering student at FURG and professional digital artist focused on anime and semi-realism. I aim to connect technology, logic, and creativity to build projects that solve real-world problems.
 
 ---
