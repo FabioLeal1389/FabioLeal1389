@@ -27,7 +27,7 @@
         <li>🎨 <strong>Creativity:</strong> Professional experience with digital and traditional art (focused on character design and illustration).</li>
         <li>🌐 <strong>Languages:</strong> Fluent in Portuguese and English.</li>
         <li>🎯 <strong>Interests:</strong> Software engineering, automation, artificial intelligence, and creative technology.</li>
-        <li>🧠 **Background:** Strong foundation in mathematics, physics, and logic.</li>
+        <li>🧠 <strong>Background:</strong> Strong foundation in mathematics, physics, and logic.</li>
       </ul>
     </td>
   </tr>
@@ -38,7 +38,7 @@
 ## 🎨 Featured Art
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3d5641a1-e765-4965-ae7c-6857a8fb1670" alt="Featured Art" width="85%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+ <img width="5000" height="3800" alt="Image" src="https://github.com/user-attachments/assets/3d5641a1-e765-4965-ae7c-6857a8fb1670" />
 </p>
 
 ---
@@ -60,20 +60,13 @@
     <td width="50%" valign="top" align="center">
       <h3>💻 Tech & Engineering</h3>
       <p><em>Artificial Intelligence, Robotics, Automation</em></p>
-      <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/profile-readme-generator/main/public/icons/skills/python-colored.svg" width="50" height="50" alt="Python" style="animation: pulse 2s infinite;" />
-      </a>
-      &nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/profile-readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="50" height="50" alt="VS Code" />
-      </a>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
     </td>
     <td width="50%" valign="top" align="center">
       <h3>🎨 Art & Design</h3>
       <p><em>Illustration, Character Design, Concept Art</em></p>
-      <a href="https://medibangpaint.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/medibangpaint.png" width="50" height="50" alt="MediBang Paint Pro" />
-      </a>
+      <img src="https://img.shields.io/badge/MediBang%20Paint-2AADE2?style=for-the-badge&logo=artstation&logoColor=white" alt="MediBang Paint Pro" />
     </td>
   </tr>
 </table>
@@ -83,9 +76,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.am/api?username=FabioLeal1389&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FabioLeal1389&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" height="180" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.am/api/top-langs/?username=FabioLeal1389&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioLeal1389&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
 </p>
 
 ---
@@ -101,6 +94,4 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.artstation.com/fabiofl1389" target="_blank">
-    <img src="https://img.shields.io/badge/ArtStation-000000?style=for-the-badge&logo=artstation&logoColor=white" alt="ArtStation" />
-  </a>
-</p>
+    <img src="https://img.shields.io/badge/ArtStation-000000?style=for-
