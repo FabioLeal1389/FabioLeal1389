@@ -15,6 +15,9 @@
   <a href="https://www.artstation.com/fabiofl1389" target="_blank"><img src="https://img.shields.io/badge/ArtStation-0052CC?style=flat-square&logo=artstation&logoColor=white" alt="ArtStation"></a>
 </p>
 
+<p align="center">
+  <img src="https://profile-counter.glitch.me/fabiofl1389/count.svg" alt="Visitor Count" />
+</p>
 ---
 
 ## 🚀 About Me
