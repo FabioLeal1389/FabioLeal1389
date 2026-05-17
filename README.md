@@ -27,7 +27,7 @@
         <li>🎨 <strong>Creativity:</strong> Professional experience with digital and traditional art (focused on character design and illustration).</li>
         <li>🌐 <strong>Languages:</strong> Fluent in Portuguese and English.</li>
         <li>🎯 <strong>Interests:</strong> Software engineering, automation, artificial intelligence, and creative technology.</li>
-        <li>🧠 <strong>Background:</strong> Strong foundation in mathematics, physics, and logic.</li>
+        <li>🧠 **Background:** Strong foundation in mathematics, physics, and logic.</li>
       </ul>
     </td>
   </tr>
@@ -49,13 +49,4 @@
 * 🥇 **Gold Medal** — Brazilian Rocket Exhibition (MOBFOG 2022)
 * 🥇 **Gold Medal** — Brazilian Astronomy Olympiad (OBA 2017 & 2018)
 * 🥈 **Silver Medal** — Brazilian Astronomy Olympiad (OBA 2022)
-* 📜 **Honor Certificates:** Brazilian Robotics Olympiad (OBR), National Science Olympiad (ONC), and Brazilian Biology Olympiad (OBB).
-
----
-
-## 🛠️ Technologies, Skills & Tools
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💻 Tech & Engineering</h3>
+* 📜 **Honor Certificates
