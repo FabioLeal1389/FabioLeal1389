@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/fabio-ferreira-188392280/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.artstation.com/fabiofl1389" target="_blank"><img src="https://img.shields.io/badge/ArtStation-0052CC?style=flat-square&logo=artstation&logoColor=white" alt="ArtStation"></a>
-  <img src="https://hit.yhype.me/github/profile?user=fabiofl1389&style=flat-square&color=2AADE2" alt="Profile Views" />
+  <a href="https://github.com/fabiofl1389"><img src="https://counter.milaan.workers.dev/fabiofl1389/green.svg?style=flat-square" alt="Views" /></a>
 </p>
 
 ---
