@@ -5,11 +5,10 @@
 </p>
 
 <p align="center">
-  <img width="90" alt="FURG Logo" src="https://github.com/user-attachments/assets/ded898d4-9953-44a7-90de-f71fb93f0c6f" style="margin-bottom: 15px;" /><br>
+  <img width="90" alt="FURG Logo" src="https://github.com/user-attachments/assets/5ab00c5e-b4e9-4fff-b89c-cbb4686944f2" style="margin-bottom: 15px;" /><br>
   <strong>Robotics Engineering student at FURG and professional digital artist focused on anime and semi-realism.</strong><br>
   <em>I aim to connect technology, logic, and creativity to build projects that solve real-world problems.</em>
 </p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/fabio-ferreira-188392280/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.artstation.com/fabiofl1389" target="_blank"><img src="https://img.shields.io/badge/ArtStation-0052CC?style=flat-square&logo=artstation&logoColor=white" alt="ArtStation"></a>
