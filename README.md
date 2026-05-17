@@ -1,20 +1,26 @@
 # Hi, I'm Fabio Ferreira! 👋
 
+<p align="center">
+  <a href="URL_DO_SEU_LINKEDIN">
+    <img src="https://capsule-render.vercel.app/type=waving&color=auto&height=200&section=header&text=Fabio%20Ferreira&fontSize=70" alt="Banner Fabio Ferreira" />
+  </a>
+</p>
+
 Robotics Engineering student at FURG and professional digital artist focused on anime and semi-realism. I aim to connect technology, logic, and creativity to build projects that solve real-world problems.
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-- 🎓 **Education:** Undergraduate Robotics Engineering student at the Federal University of Rio Grande (FURG).
-- 🎨 **Creativity:** Professional experience with digital and traditional art (focused on character design and illustration).
-- 🌐 **Languages:** Fluent in Portuguese and English.
-- 🎯 **Interests:** Software engineering, automation, artificial intelligence, and creative technology.
-- 🧠 **Background:** Strong foundation in mathematics, physics, and logic.
+* 🎓 **Education:** Undergraduate Robotics Engineering student at the Federal University of Rio Grande (FURG).
+* 🎨 **Creativity:** Professional experience with digital and traditional art (focused on character design and illustration).
+* 🌐 **Languages:** Fluent in Portuguese and English.
+* 🎯 **Interests:** Software engineering, automation, artificial intelligence, and creative technology.
+* 🧠 **Background:** Strong foundation in mathematics, physics, and logic.
 
 ---
 
-### 🏆 Achievements & Scientific Olympiads
+## 🏆 Achievements & Scientific Olympiads
 
 * 🥇 **Gold Medal** — Brazilian Geography Olympiad (OBG 2023)
 * 🥇 **Gold Medal** — Brazilian Rocket Exhibition (MOBFOG 2022)
@@ -24,14 +30,33 @@ Robotics Engineering student at FURG and professional digital artist focused on 
 
 ---
 
-### 🛠️ Technologies & Skills
+## 🛠️ Technologies & Skills
 
-- **Tech & Tools:** Python, Automation, Software Development.
-- **Fields of Interest:** Artificial Intelligence, Robotics, Creative Tech.
-- **Art & Design:** Digital Illustration, Character Design, Anatomy & Concept Art.
+### 💻 Tech & Fields of Interest
+> Python, Automation, Software Development, Artificial Intelligence, Robotics, Creative Tech.
+
+### 🎨 Art & Design
+> Digital Illustration, Character Design, Anatomy & Concept Art.
 
 ---
 
-### 📨 Let's Connect!
+## 📨 Let's Connect!
 
 Feel free to reach out if you want to talk about robotics, AI, game dev, or digital art!
+
+<p align="center">
+  <!-- Link para o LinkedIn -->
+  <a href="URL_DO_SEU_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <!-- Link para o Instagram ou Portfólio de Arte -->
+  <a href="URL_DO_SEU_PORTFOLIO_DE_ARTE" target="_blank">
+    <img src="https://img.shields.io/badge/ArtStation-000000?style=for-the-badge&logo=artstation&logoColor=white" alt="ArtStation" />
+  </a>
+
+  <!-- Link para o GitHub -->
+  <a href="URL_DO_SEU_GITHUB" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
