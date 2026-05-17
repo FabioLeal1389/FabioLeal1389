@@ -20,6 +20,14 @@ Robotics Engineering student at FURG and professional digital artist focused on 
 
 ---
 
+## 🎨 Featured Art
+
+<p align="center">
+  <img src="tempest.jpg" alt="Tempest by Fabio Ferreira" width="600" />
+</p>
+
+---
+
 ## 🏆 Achievements & Scientific Olympiads
 
 * 🥇 **Gold Medal** — Brazilian Geography Olympiad (OBG 2023)
@@ -30,13 +38,22 @@ Robotics Engineering student at FURG and professional digital artist focused on 
 
 ---
 
-## 🛠️ Technologies & Skills
+## 🛠️ Technologies, Skills & Tools
 
-### 💻 Tech & Fields of Interest
-> Python, Automation, Software Development, Artificial Intelligence, Robotics, Creative Tech.
+### 💻 Tech & Engineering
+> Artificial Intelligence, Robotics, Automation, Creative Tech.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+</p>
 
 ### 🎨 Art & Design
 > Digital Illustration, Character Design, Anatomy & Concept Art.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/MediBang%20Paint%20Pro-2AADE2?style=flat-square&logo=icloud&logoColor=white" alt="MediBang Paint Pro" />
+</p>
 
 ---
 
@@ -45,12 +62,10 @@ Robotics Engineering student at FURG and professional digital artist focused on 
 Feel free to reach out if you want to talk about robotics, AI, game dev, or digital art!
 
 <p align="center">
-  <!-- Link para o LinkedIn -->
   <a href="https://www.linkedin.com/in/fabio-ferreira-188392280/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
-  <!-- Link para o ArtStation -->
   <a href="https://www.artstation.com/fabiofl1389" target="_blank">
     <img src="https://img.shields.io/badge/ArtStation-000000?style=for-the-badge&logo=artstation&logoColor=white" alt="ArtStation" />
   </a>
