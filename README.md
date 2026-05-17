@@ -49,4 +49,58 @@
 * 🥇 **Gold Medal** — Brazilian Rocket Exhibition (MOBFOG 2022)
 * 🥇 **Gold Medal** — Brazilian Astronomy Olympiad (OBA 2017 & 2018)
 * 🥈 **Silver Medal** — Brazilian Astronomy Olympiad (OBA 2022)
-* 📜 **Honor Certificates
+* 📜 **Honor Certificates:** Brazilian Robotics Olympiad (OBR), National Science Olympiad (ONC), and Brazilian Biology Olympiad (OBB).
+
+---
+
+## 🛠️ Technologies, Skills & Tools
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h3>💻 Tech & Engineering</h3>
+      <p><em>Artificial Intelligence, Robotics, Automation</em></p>
+      <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/danielcranney/profile-readme-generator/main/public/icons/skills/python-colored.svg" width="50" height="50" alt="Python" style="animation: pulse 2s infinite;" />
+      </a>
+      &nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/danielcranney/profile-readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="50" height="50" alt="VS Code" />
+      </a>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3>🎨 Art & Design</h3>
+      <p><em>Illustration, Character Design, Concept Art</em></p>
+      <a href="https://medibangpaint.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/medibangpaint.png" width="50" height="50" alt="MediBang Paint Pro" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.am/api?username=FabioLeal1389&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" height="180" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.am/api/top-langs/?username=FabioLeal1389&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
+</p>
+
+---
+
+## 📨 Let's Connect!
+
+<p align="center">
+  <em>Feel free to reach out if you want to talk about robotics, AI, game dev, or digital art!</em>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/fabio-ferreira-188392280/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.artstation.com/fabiofl1389" target="_blank">
+    <img src="https://img.shields.io/badge/ArtStation-000000?style=for-the-badge&logo=artstation&logoColor=white" alt="ArtStation" />
+  </a>
+</p>
