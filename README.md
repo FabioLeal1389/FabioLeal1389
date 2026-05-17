@@ -1,7 +1,7 @@
 # Hi, I'm Fabio Ferreira! 👋
 
 <p align="center">
-  <a href="URL_DO_SEU_LINKEDIN">
+  <a href="https://www.linkedin.com/in/fabio-ferreira-188392280/">
     <img src="https://capsule-render.vercel.app/type=waving&color=auto&height=200&section=header&text=Fabio%20Ferreira&fontSize=70" alt="Banner Fabio Ferreira" />
   </a>
 </p>
@@ -46,17 +46,12 @@ Feel free to reach out if you want to talk about robotics, AI, game dev, or digi
 
 <p align="center">
   <!-- Link para o LinkedIn -->
-  <a href="URL_DO_SEU_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/fabio-ferreira-188392280/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
-  <!-- Link para o Instagram ou Portfólio de Arte -->
-  <a href="URL_DO_SEU_PORTFOLIO_DE_ARTE" target="_blank">
+  <!-- Link para o ArtStation -->
+  <a href="https://www.artstation.com/fabiofl1389" target="_blank">
     <img src="https://img.shields.io/badge/ArtStation-000000?style=for-the-badge&logo=artstation&logoColor=white" alt="ArtStation" />
-  </a>
-
-  <!-- Link para o GitHub -->
-  <a href="URL_DO_SEU_GITHUB" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
