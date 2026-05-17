@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fabio-ferreira-188392280/">
-    <img src="https://capsule-render.vercel.app/type=waving&color=auto&height=200&section=header&text=Fabio%20Ferreira&fontSize=70" alt="Banner Fabio Ferreira" />
+    <img src="https://raw.githubusercontent.com/FabioLeal1389/FabioLeal1389/main/tempest.jpg" alt="Banner Fabio Ferreira" width="100%" />
   </a>
 </p>
 
@@ -23,7 +23,7 @@ Robotics Engineering student at FURG and professional digital artist focused on 
 ## 🎨 Featured Art
 
 <p align="center">
-  <img src="tempest.jpg" alt="Tempest by Fabio Ferreira" width="600" />
+  <img src="https://raw.githubusercontent.com/FabioLeal1389/FabioLeal1389/main/tempest.jpg" alt="Tempest by Fabio Ferreira" width="600" />
 </p>
 
 ---
