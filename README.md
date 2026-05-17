@@ -23,7 +23,7 @@ Robotics Engineering student at FURG and professional digital artist focused on 
 ## 🎨 Featured Art
 
 <p align="center">
-  <img src="tempest.jpg" alt="Tempest by Fabio Ferreira" width="600" />
+ <img width="5000" height="3800" alt="Image" src="https://github.com/user-attachments/assets/3d5641a1-e765-4965-ae7c-6857a8fb1670" />
 </p>
 
 ---
