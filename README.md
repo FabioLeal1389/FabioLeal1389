@@ -1,4 +1,3 @@
-# Hi, I'm Fabio Ferreira! 👋
 
 # <img src="https://github.com/user-attachments/assets/5ab00c5e-b4e9-4fff-b89c-cbb4686944f2" width="35" alt="FURG Logo" align="left" style="margin-right: 15px; margin-top: -5px;" /> Hi, I'm Fabio Ferreira! 👋
 
