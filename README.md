@@ -1,4 +1,3 @@
-
 # <img src="https://github.com/user-attachments/assets/5ab00c5e-b4e9-4fff-b89c-cbb4686944f2" width="35" alt="FURG Logo" align="left" style="margin-right: 15px; margin-top: -5px;" /> Hi, I'm Fabio Ferreira! 👋
 
 <p align="center">
@@ -13,11 +12,9 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/fabio-ferreira-188392280/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.artstation.com/fabiofl1389" target="_blank"><img src="https://img.shields.io/badge/ArtStation-0052CC?style=flat-square&logo=artstation&logoColor=white" alt="ArtStation"></a>
+  <img src="https://hit.yhype.me/github/profile?user=fabiofl1389&style=flat-square&color=2AADE2" alt="Profile Views" />
 </p>
 
-<p align="center">
-  <img src="https://hit.yhype.me/github/profile?user=fabiofl1389" alt="Hits" />
-</p>
 ---
 
 ## 🚀 About Me
