@@ -1,12 +1,6 @@
 # Hi, I'm Fabio Ferreira! 👋
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/fabio-ferreira-188392280/">
-    <img src="https://capsule-render.vercel.app/type=waving&color=gradient&customColorList=1,2,3,4,5&height=220&section=header&text=Fabio%20Ferreira&fontSize=70&animation=fadeIn" alt="Banner Fabio Ferreira" width="100%" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2AADE2&center=true&vCenter=true&width=500&lines=Robotics+Engineering+Student;Digital+Artist;Character+Designer" alt="Typing Animation" />
 </p>
 
