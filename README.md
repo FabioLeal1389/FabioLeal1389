@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/fabiofl1389/count.svg" alt="Visitor Count" />
+  <img src="https://hit.yhype.me/github/profile?user=fabiofl1389" alt="Hits" />
 </p>
 ---
 
