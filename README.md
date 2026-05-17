@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://www.furg.br/images/arquivos/furg_brasao.png" alt="FURG Logo" width="90" style="margin-bottom: 15px;" /><br>
+  <img src="<img width="240" height="332" alt="Image" src="https://github.com/user-attachments/assets/ad2ee523-52a0-4100-9078-fd939f953396" />" alt="FURG Logo" width="90" style="margin-bottom: 15px;" /><br>
   <strong>Robotics Engineering student at FURG and professional digital artist focused on anime and semi-realism.</strong><br>
   <em>I aim to connect technology, logic, and creativity to build projects that solve real-world problems.</em>
 </p>
